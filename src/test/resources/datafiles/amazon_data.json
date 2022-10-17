@@ -1,0 +1,12 @@
+{
+  "Application": {
+    "Amazon": {
+      "amazonUsername": "9739713447",
+      "amazonPassword": "Melapuram!20",
+      "productType": "mobile",
+      "productLowestRange": "8000",
+      "productHighestRange": "10000",
+      "productGb": "3Gb"
+    }
+  }
+}
